@@ -9,3 +9,7 @@
 ::-webkit-scrollbar-thumb {
   @apply bg-neutral-500/50 rounded-full;
 }
+
+pre {
+  @apply max-w-[82vw];
+}

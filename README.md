@@ -18,7 +18,14 @@ Akurai AI is a chat code generator app that uses AI-powered technology to genera
 ### Installation
 
 1. Install dependencies: `npm install`
-2. Start the development server: `npm run dev`
+2. Create .env file: `cp .env.example .env`
+3. Add [Groq AI API Key](https://console.groq.com/keys) on .env: `GROQ_API_KEY=`
+4. Start the development server: `npm run dev`
+5. Start the production server: `npm run build && npm run start`
+
+### Deploy on Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimpfundev%2Fakurai-ai&env=GROQ_API_KEY)
 
 ### Usage
 
