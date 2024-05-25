@@ -1,5 +1,7 @@
 # **Akurai AI Chat Code Generator App**
 
+![Screenshoot Akurai AI](/public/screenshot.jpg)
+
 ## **Overview**
 
 Akurai AI is a chat code generator app that uses AI-powered technology to generate code snippets for various programming languages. With Akurai AI, developers can quickly and easily generate code for their projects, saving time and increasing productivity.
@@ -71,4 +73,4 @@ Akurai AI is built on top of the following projects:
 
 ## **Contact**
 
-If you have any questions or feedback, please don't hesitate to reach out to me at [ilhammaulana.dev@gmail.com](mailto:your-email@example.com).
+If you have any questions or feedback, please don't hesitate to reach out to me at [ilhammaulana.dev@gmail.com](mailto:ilhammaulana.dev@gmail.com).
